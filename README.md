@@ -1,16 +1,22 @@
-# flutter_application_2
+# ☁️ flutter_weather_app
 
-A new Flutter project.
+A simple weather app made with Flutter and Dart.  
+It uses [OpenWeatherMap API](https://openweathermap.org/) to fetch weather data.
 
-## Getting Started
+## 🔧 Features
+- City selection
+- Weather temperature display
+- Works on Android, iOS, and Web
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built with
+- Flutter (Dart)
+- Dio HTTP client
+- FutureBuilder and State management
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Screenshots
+*(Add images here later)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+```bash
+flutter pub get
+flutter run
